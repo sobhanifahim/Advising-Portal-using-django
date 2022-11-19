@@ -1,3 +1,5 @@
+Features that are included in this application.
+
 1.Student register
 2.Instructor register
 3.Login/logout
